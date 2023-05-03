@@ -1,88 +1,89 @@
 # Resources for Software Engineering Managers
 ## Books
 ### Must Read
-* How to Win Friends and Influence People by Dale Carnegie  
-* Accelerate by Forsgren, Humble, and Kim
-* High Output Management by Andrew Grove
+* __How to Win Friends and Influence People__ by Dale Carnegie  
+* __Accelerate__ by Forsgren, Humble, and Kim
+* __High Output Management__ by Andrew Grove
 
 ### Getting Started
-* Engineering Management for the Rest of Us by Sarah Drasner  
+* __Engineering Management for the Rest of Us__ by Sarah Drasner  
 
 ### Technical Excellence
-* Design Patterns by Gamma, Helm, Johnson, and Vlissides
-* Refactoring by Martin Fowler
+* __Design Patterns__ by Gamma, Helm, Johnson, and Vlissides
+* __Refactoring__ by Martin Fowler
 
 ### High-Performance Teams
-* First, Break All the Rules by Gallup
-* The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
-* Drive by Daniel Pink
-* Smarter Better Faster by Charles Duhigg
-* The Culture Map by Erin Meyer
+* __First, Break All the Rules__ by Gallup
+* __The Five Dysfunctions of a Team: A Leadership Fable__ by Patrick Lencioni
+* __Drive__ by Daniel Pink
+* __Smarter Better Faster__ by Charles Duhigg
+* __The Culture Map__ by Erin Meyer
 
 ### Prioritization
-* The One Thing by Gary Keller and Jay Papasan
-* Essentialism: The Disciplined Pursuit of Less by Greg McKeown
-* The Paradox of Choice by Barry Schwartz
-* Deep Work by Cal Newport
+* __The One Thing__ by Gary Keller and Jay Papasan
+* __Essentialism: The Disciplined Pursuit of Less__ by Greg McKeown
+* __The Paradox of Choice__ by Barry Schwartz
+* __Deep Work__ by Cal Newport
 
 ### Conflict Resolution
-* Leadership and Self-Deception: Getting Out of the Box by The Arbinger Institute
-* Never Split the Difference by Chris Voss
-* Getting to Yes by Roger Fisher
+* __Leadership and Self-Deception: Getting Out of the Box__ by The Arbinger Institute
+* __Never Split the Difference__ by Chris Voss
+* __Getting to Yes__ by Roger Fisher
 
 ### Project Management
-* The Mythical Man-Month by Fred Brooks
-* The Goal by Eliyahu Goldratt
-* Getting Things Done by David Allen
+* __The Mythical Man-Month__ by Fred Brooks
+* __The Goal__ by Eliyahu Goldratt
+* __Getting Things Done__ by David Allen
 
 ### Influence
-* Made to Stick by Chip Heath and Dan Heath
-* Influence by Robert Cialdini
-* Pre-suasion by Robert Cialdini
-* TED Talks by Chris Anderson
+* __Made to Stick__ by Chip Heath and Dan Heath
+* __Influence__ by Robert Cialdini
+* __Pre-suasion__ by Robert Cialdini
+* __TED Talks__ by Chris Anderson
 
 ### Culture
-* Good to Great by Jim Collins
-* Built to Last by Jim Collins and Jerry Porras
-* No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings and Erin Meyer
-* The No Asshole Rule by Robert Sutton
-* The Ride of a Lifetime by Robert Iger
+* __Good to Great__ by Jim Collins
+* __Built to Last__ by Jim Collins and Jerry Porras
+* __No Rules Rules__ by Reed Hastings and Erin Meyer
+* __The No Asshole Rule__ by Robert Sutton
+* __The Ride of a Lifetime__ by Robert Iger
 
 ### Habits
-* Atomic Habits by James Clear
-* The 7 Habits of Highly Effective People by Stephen Covey
-* The Compound Effect by Darren Hardy
+* __Atomic Habits__ by James Clear
+* __The 7 Habits of Highly Effective People__ by Stephen Covey
+* __The Compound Effect__ by Darren Hardy
 
 ### Thinking
-* The Accidental Creative by Todd Henry
-* Range by David Epstein
-* Thinking Fast and Slow by Daniel Kahneman
-* Blink by Malcolm Gladwell
-* How to Lie with Statistics by Darrell Huff
-* The Innovator’s Dilemma by Clayton Christensen
+* __The Accidental Creative__ by Todd Henry
+* __Range__ by David Epstein
+* __Thinking Fast and Slow__ by Daniel Kahneman
+* __Blink__ by Malcolm Gladwell
+* __How to Lie with Statistics__ by Darrell Huff
+* __The Innovator’s Dilemma__ by Clayton Christensen
 
 ### Product Design
-* Hooked by Nir Eyal
-* Don't Make Me Think by Steve Krug
-* For the Win by Dan Hunter and Kevin Werbach
-* The Design of Everyday Things by Don Norman
-* The Non-Designer's Design Book by Robin Williams
+* __Hooked__ by Nir Eyal
+* __Don't Make Me Think__ by Steve Krug
+* __For the Win__ by Dan Hunter and Kevin Werbach
+* __The Design of Everyday Things__ by Don Norman
+* __The Non-Designer's Design Book__ by Robin Williams
 
 ### Startups
-* The Lean Startup by Eric Ries
-* The Founder’s Dilemma by Noam Wasserman
-* Zero to One by Peter Thiel
-* The Hard Thing About Hard Things by Ben Horowitz
+* __The Lean Startup__ by Eric Ries
+* __The Founder’s Dilemma__ by Noam Wasserman
+* __Zero to One__ by Peter Thiel
+* __The Hard Thing About Hard Things__ by Ben Horowitz
+* __Company of One__ by Paul Jarvis
 
 ### History
-* The Innovators by Walter Isaacson
+* __The Innovators__ by Walter Isaacson
 
 ### Mental Health
-* Why We Sleep by Matthew Walker
-* Search Inside Yourself by Chade-Meng Tan
-* The Happiness Trap by Russ Harris
-* Can’t Hurt Me by David Goggins
-* The Body Keeps the Score by Bessel Van Der Kolk
-* How to Stop Worrying and Start Living by Dale Carnegie
-* Meditations by Marcus Aurelius
-* Factfulness by Hans Rosling
+* __Why We Sleep__ by Matthew Walker
+* __Search Inside Yourself__ by Chade-Meng Tan
+* __The Happiness Trap__ by Russ Harris
+* __Can’t Hurt Me__ by David Goggins
+* __The Body Keeps the Score__ by Bessel Van Der Kolk
+* __How to Stop Worrying and Start Living__ by Dale Carnegie
+* __Meditations__ by Marcus Aurelius
+* __Factfulness__ by Hans Rosling
