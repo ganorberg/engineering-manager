@@ -2,9 +2,11 @@
 ## Books
 ### Must Read
 * How to Win Friends and Influence People by Dale Carnegie  
-* Engineering Management for the Rest of Us by Sarah Drasner  
 * Accelerate by Forsgren, Humble, and Kim
 * High Output Management by Andrew Grove
+
+### Getting Started
+* Engineering Management for the Rest of Us by Sarah Drasner  
 
 ### Technical Excellence
 * Design Patterns by Gamma, Helm, Johnson, and Vlissides
@@ -14,6 +16,7 @@
 * First, Break All the Rules by Gallup
 * The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
 * Drive by Daniel Pink
+* Smarter Better Faster by Charles Duhigg
 * The Culture Map by Erin Meyer
 
 ### Prioritization
@@ -36,6 +39,7 @@
 * Made to Stick by Chip Heath and Dan Heath
 * Influence by Robert Cialdini
 * Pre-suasion by Robert Cialdini
+* TED Talks by Chris Anderson
 
 ### Culture
 * Good to Great by Jim Collins
@@ -53,6 +57,7 @@
 * The Accidental Creative by Todd Henry
 * Range by David Epstein
 * Thinking Fast and Slow by Daniel Kahneman
+* Blink by Malcolm Gladwell
 * How to Lie with Statistics by Darrell Huff
 * The Innovator’s Dilemma by Clayton Christensen
 
@@ -77,5 +82,7 @@
 * Search Inside Yourself by Chade-Meng Tan
 * The Happiness Trap by Russ Harris
 * Can’t Hurt Me by David Goggins
+* The Body Keeps the Score by Bessel Van Der Kolk
 * How to Stop Worrying and Start Living by Dale Carnegie
-* Meditations by Aurelius
+* Meditations by Marcus Aurelius
+* Factfulness by Hans Rosling
