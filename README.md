@@ -1,12 +1,10 @@
 # Resources for Software Engineering Managers
 ## Books
 ### Must Read
-How to Win Friends and Influence People by Dale Carnegie  
-
-Engineering Management for the Rest of Us by Sarah Drasner  
-
-Accelerate by Forsgren, Humble, and Kim
-High Output Management by Andrew Grove
+* How to Win Friends and Influence People by Dale Carnegie  
+* Engineering Management for the Rest of Us by Sarah Drasner  
+* Accelerate by Forsgren, Humble, and Kim
+* High Output Management by Andrew Grove
 
 ### Technical Excellence
 Refactoring by Martin Fowler
