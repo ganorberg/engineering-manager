@@ -7,10 +7,10 @@
 * High Output Management by Andrew Grove
 
 ### Technical Excellence
-* Refactoring by Martin Fowler
 * Design Patterns by Gamma, Helm, Johnson, and Vlissides
+* Refactoring by Martin Fowler
 
-### High-Performance Team
+### High-Performance Teams
 * First, Break All the Rules by Gallup
 * The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
 * Drive by Daniel Pink
