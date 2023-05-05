@@ -23,6 +23,7 @@
 * __The One Thing__ by Gary Keller and Jay Papasan
 * __Essentialism: The Disciplined Pursuit of Less__ by Greg McKeown
 * __The Paradox of Choice__ by Barry Schwartz
+* __Getting Things Done__ by David Allen
 * __Deep Work__ by Cal Newport
 
 ### Conflict Resolution
@@ -33,7 +34,6 @@
 ### Project Management
 * __The Mythical Man-Month__ by Fred Brooks
 * __The Goal__ by Eliyahu Goldratt
-* __Getting Things Done__ by David Allen
 
 ### Influence
 * __Made to Stick__ by Chip Heath and Dan Heath
