@@ -70,7 +70,7 @@
 
 ### Startups
 * __The Lean Startup__ by Eric Ries
-* __The Founder’s Dilemma__ by Noam Wasserman
+* __The Founder’s Dilemmas__ by Noam Wasserman
 * __Zero to One__ by Peter Thiel
 * __The Hard Thing About Hard Things__ by Ben Horowitz
 * __Company of One__ by Paul Jarvis
