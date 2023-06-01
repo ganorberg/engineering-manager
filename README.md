@@ -10,6 +10,7 @@
 
 ### Technical Excellence
 * __Design Patterns__ by Gamma, Helm, Johnson, and Vlissides
+* __Designing Data-Intensive Applications__ by Martin Kleppmann
 * __Refactoring__ by Martin Fowler
 
 ### High-Performance Teams
