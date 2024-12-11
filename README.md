@@ -1,13 +1,14 @@
 # Resources for Software Engineering Managers
 ## Books
+
+### Getting Started
+* __Engineering Management for the Rest of Us__ by Sarah Drasner  
+
 ### Must Read
 * __Radical Candor__ by Kim Scott  
 * __How to Win Friends and Influence People__ by Dale Carnegie  
 * __Accelerate__ by Forsgren, Humble, and Kim
 * __High Output Management__ by Andrew Grove
-
-### Getting Started
-* __Engineering Management for the Rest of Us__ by Sarah Drasner  
 
 ### Technical Excellence
 * __Design Patterns__ by Gamma, Helm, Johnson, and Vlissides
