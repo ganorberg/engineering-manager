@@ -1,6 +1,7 @@
 # Resources for Software Engineering Managers
 ## Books
 ### Must Read
+* __Radical Candor__ by Kim Scott  
 * __How to Win Friends and Influence People__ by Dale Carnegie  
 * __Accelerate__ by Forsgren, Humble, and Kim
 * __High Output Management__ by Andrew Grove
